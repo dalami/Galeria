@@ -8,6 +8,7 @@
 h1{
     text-align: center;
     text-decoration: underline;
+    margin-top: 3rem;
 }
 
 
@@ -46,5 +47,9 @@ input{
 
 .filtro{
     display: none;
+}
+span{
+    position: relative;
+    left: -2rem;
 }
 
