@@ -16,6 +16,13 @@ img{
     height: 13rem;
     
 }
+input{
+    width: 20rem;
+    height: 2rem;
+    border-radius: 10px;
+    margin-left: 64rem;
+    margin-top: 2rem;
+}
 
 
 .container{
@@ -35,5 +42,9 @@ img{
 
 .gallery{
     width: 100%;
+}
+
+.filtro{
+    display: none;
 }
 
